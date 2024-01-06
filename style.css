@@ -1,0 +1,41 @@
+img {
+    display: block;
+    margin: auto;
+    background-size: cover;
+    border-radius: 30px;
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 1);
+}
+h1{
+  padding-left: 123px;  
+
+ 
+}
+h2{
+    padding-left: 123px;   
+  }
+  h3{
+    padding-left: 123px;   
+  }
+  h4{
+    padding-left: 123px;   
+  }
+p{
+    padding-left: 123px;
+    padding-right: 115px;
+    font-size: 18px;
+}
+strong{
+    padding-left: 123px;
+}
+pre{
+    padding-left: 123px;
+    padding-right: 50px;
+    font-size: 18px;
+}
+b{
+    font-size: 20px;
+    margin-inline-start: -12px;
+}
+body{
+  background-color: #F0F9CF;
+}
